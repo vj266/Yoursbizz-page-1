@@ -1,0 +1,603 @@
+body{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+    .rectangle1 h1{
+       position:absolute;
+       top:0px;
+       left:70px;
+       font-style:bold;
+       color: #233a6c;
+    }
+    
+    .rectangle1 img{
+        position:absolute;
+        top:20px;
+        left:60px;
+    }
+    span{
+        color:red;
+    } 
+    .bt{
+        color:black;
+        position:absolute;
+        right:125px;
+        top:35px;
+        cursor: pointer;
+    }
+    .ik img{
+        margin-left:200px;
+        margin-top:30px;
+    }
+    .mmw{
+        position:absolute;
+        left:124px;
+        top:0px;
+    }
+    .lkl{
+        position:absolute;
+        left:84px;
+        top:27px;
+    }
+    .ffr{
+        position:absolute;
+        left:91px;
+    }
+    
+    .ik h1{
+        color:#2138AF;
+        position:absolute;
+        left:195px;
+    }
+    .lp img{
+        position: absolute;
+    }
+    .ji img{
+           position: absolute;
+           left:160px;
+           top: 32px;
+    }
+    .lp img{
+        position: absolute;
+        left:123px;
+        top:31px;
+    }
+    .kll{
+        position:absolute;
+        left:0px;
+        margin-top:0px;
+    }
+       .ff{
+           position:absolute;
+           top:148px;
+           left:143px;
+       }
+       .pb{
+           position:absolute;
+           left:317px;
+           top:5px;
+       }
+        #a{
+        position:absolute;
+        left:880px;
+        top:20px;
+        cursor: pointer;
+    } 
+    #b{
+        position:absolute;
+        top:17px;
+        right:365px;
+    }
+    #c{
+        position: absolute;
+        left:995px;
+        top:20px;
+        cursor: pointer;
+    }
+    #d{
+        position: absolute;
+        right:233px;
+        top:17px;
+    }
+    #ab{
+        position:absolute;
+        left:80px;
+        top:60px;
+    }
+    #bc{
+        position:absolute;
+        left:142px;
+        top:55px;
+    }
+    #cd{
+        position:absolute;
+        left:175px;
+        top:85px;
+    }
+    #df{
+        position:absolute;
+        left:195px;
+        top:158px;
+    }
+    #kk{
+        position: absolute;
+        left:380px;
+        top:105px;
+        font-style:normal;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 300;
+        color:#14213D;
+    }
+    .b1{
+        position:absolute;
+        height:31px;
+        width:129px;
+        left:330px;
+        top:160px;
+        background-color: #FCA311;
+        cursor: pointer;
+
+    }
+.rectangle1{
+    width:100%;
+    height:91px;
+   background-color:#F0F1F3;
+    position:absolute;
+    left:0px;
+    top:0px;
+    right:0px;
+}
+.rectangle2{
+    width:100%;
+    height:61px;
+    margin-top: 91px;
+    background-color:#233A6C;
+    position:absolute;
+    font-style: normal;
+    font-weight: 200;
+    left:0px;
+    top:0px;
+    right:0px;
+    text-align:center;
+}
+
+
+.navbar li{
+    color:white;
+    display:inline-block;
+}
+.navbar li a{
+    color:white;
+    text-decoration: none;
+    padding: 34px 23px;
+    display:inline;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    }
+
+.navbar li a:hover{
+    text-decoration: black;
+}
+.rectangle3{
+    width:100%;
+    height:290px;
+    position:absolute;
+    background-color:white;
+    top:190px;
+    font-style:normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.mk{
+    position: absolute;
+    top:140px;
+    left:20px;
+    cursor: pointer;
+}
+.km{
+    position:absolute;
+    top:146px;
+    left:27px;
+    cursor: pointer;
+}
+.mp{
+    position:absolute;
+    top:133px;
+    right:505px;
+    cursor: pointer;
+    }
+    .ps{
+        position: absolute;
+        top:140px;
+        right:498px;
+        cursor: pointer;
+    }
+    .ll{
+        position:absolute;
+        left:10px;
+    }
+    
+div.rectangle3 img{
+        position:absolute;
+        left:230px;
+        
+}
+div.left img{
+    position:absolute;
+    left:0px;
+    margin-left:0px;
+}
+div.right img{
+    position:absolute;
+    left:92.65%;
+}
+.rectangle4{
+    width:100%;
+    height:195px;
+    position:absolute;
+    left:0px;
+    top:520px;
+    background-color:white;
+    font-style:normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+      .rectangle4 img{
+      margin-left: 70px;
+      }
+.rectangle4 img:hover{
+    background-color: black;
+    cursor: pointer;
+}
+.rectangle4 h4{
+    margin-left: 65px;
+}
+.class1 h6{
+    margin-left: 95px;
+    margin-top: 0px;
+    color:#DD403A;
+}
+.class2 h6{
+    position:absolute;
+    left:300px;
+    top:132px;
+}
+.class3 h6{
+    position:absolute;
+    left:510px;
+     top:132px;
+}
+.class4 h6{
+    position:absolute;
+    left:710px;
+    top:132px;
+}
+.class5 h6{
+    position:absolute;
+    left:900px;
+    top:132px;
+}
+.class6 h6{
+    position:absolute;
+    left:1100px;
+    top:132px;
+}
+.class1:hover{
+    cursor: pointer;
+}
+.class2:hover{
+    cursor: pointer;
+}
+.class3:hover{
+    cursor: pointer;
+}
+.class4:hover{
+    cursor: pointer;
+}
+.class5:hover{
+    cursor: pointer;
+}
+.class6:hover{
+    cursor: pointer;
+}
+.class2 img{
+     position:absolute;
+     left:200px;
+     top: 60px;
+}
+.class3 img{
+    position:absolute;
+    left:400px;
+    top:60px;
+}
+.class4 img{
+    position:absolute;
+    left:600px;
+    top:60px;
+}
+.class5 img{
+    position:absolute;
+    left:800px;
+    top:60px;
+}
+.class6 img{
+    position:absolute;
+    left:1000px;
+    top:60px;
+}
+
+.rectangle5{
+    width:93%;
+    height: 230px;
+    position:absolute;
+    left:43px;
+    right:0px;
+    top:715px;
+    background-color:#E5E5E5;
+    font-style:normal;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.a img{
+    position:absolute; 
+    left:85px; 
+    cursor:pointer; 
+}
+.b img{
+position: absolute;
+left:275px; 
+top:59px; 
+cursor: pointer;
+}
+.c img{
+    position: absolute;
+    left:480px;
+    top:59px;
+    cursor: pointer;
+}
+.d img{
+    position:absolute;
+    left:680px;
+    top: 59px;
+    cursor: pointer;
+}
+.e img{
+    position: absolute;
+    left:870px;
+    top:59px;
+    cursor: pointer;
+}
+.f img{
+    position:absolute;
+    left:1070px;
+    top:59px;
+    cursor: pointer;
+}
+.a h6{
+    position:absolute;
+    left:75px;
+    top: 132px;
+    
+}
+.b h6{
+    position:absolute;
+    left:275px;
+    top: 132px;
+} 
+.c h6{
+    position:absolute;
+    left:470px;
+    top: 132px;
+}
+ .d h6{
+    position:absolute;
+    left:660px;
+    top: 132px; 
+}
+.e h6{
+    position:absolute;
+    left:880px;
+    top: 132px;
+}
+.f h6{
+    position:absolute;
+    left: 1060px;
+    top: 132px;
+}
+
+.a h6:hover{
+    cursor: pointer;
+}
+.b h6:hover{
+    cursor: pointer;
+}
+.c h6:hover{
+    cursor: pointer;
+}
+.d h6:hover{
+    cursor: pointer;
+}
+.e h6:hover{
+    cursor: pointer;
+}
+.f h6:hover{
+    cursor: pointer;
+}
+.g img{
+    position:absolute;
+    top:98px;
+    left:30px;
+}
+.h img{
+    position:absolute;
+    top:98px;
+     left:235px;
+}
+.i img{
+    position:absolute;
+    top:98px;
+    left:410px;
+}
+.j img{
+    position:absolute;
+    top:98px;
+    left:645px;
+}
+.k img{
+    position:absolute;
+    top:98px;
+    left:810px;
+}
+.l img{
+    position:absolute;
+    top:98px;
+    left:1035px;
+}
+.rectangle5 h5{
+    margin-left: 80px;
+}
+.pd{
+    position:absolute;
+    top:137px;
+    left:20px;
+    cursor: pointer;
+}
+.dm{
+    position:absolute;
+    top:144px;
+    left:26px;
+    cursor: pointer;
+}
+.mj{
+    position:absolute;
+    top:137px;
+    left:840px;
+    cursor: pointer;
+}
+.jm{
+    position: absolute;
+    top:144px;
+    left:846px;
+    cursor: pointer;
+}
+.rectangle5 h6{
+    color:#2B9348;
+}
+.man{
+    position:absolute;
+    left:435px;
+    width:350px;
+    height:15px;
+    top:25px;
+    
+    }
+    input{
+        
+        height:28px;
+        width:90%;
+        padding:0px 9px;
+    }
+    .bmt{
+        position:absolute;
+        left:712px;
+        top:5px;
+        color: #E5E5E5;
+        cursor: pointer;
+        
+    }
+    .class1 img{
+        position: absolute;
+        top:61px;
+    }
+    .g img{
+        position:absolute;
+        top:100px;
+    }
+    .class1 h6{
+        position:absolute;
+        top:160px;
+        left:10px;
+    }
+    .mm img{
+        position: absolute;
+        top:45px;
+        margin-left: 43px;
+    }
+    .rectangle4 h3{
+        color:#140DAF;
+        margin-left:40px;
+        font-weight: bolder;
+    }
+    .a img{
+        position: absolute;
+        left:25px;
+    }
+    .b img{
+       position:absolute;
+       left:225px;
+    }
+    .c img{
+      position:absolute;
+      left:425px;
+    }
+    .d img{
+       position:absolute;
+       left:625px;
+    }
+    .e img{
+         position:absolute;
+         left:825px;
+    }
+    .f img{
+        position:absolute;
+        left:1025px;
+    }
+    .rectangle5 h5{
+        margin-left:35px;
+        }
+            .ssa{
+            position:absolute;
+            top:820px;
+            left:35px;
+            cursor: pointer;
+        }
+        .ssd{
+            position:absolute;
+            top:620px;
+            left:35px;
+            cursor: pointer;
+        }
+        .ssc{
+             position:absolute;
+             top:820px;
+             left:1290px;
+             cursor: pointer;
+        }
+        .ssf{
+            position:absolute;
+            top:620px;
+            left:1260px;
+            cursor: pointer;
+         }
+         .pb1{
+             position:absolute;
+             top:11px;
+             left:12px;
+             cursor: pointer;
+         }
+         .pb2{
+             position:absolute;
+             top:14px;
+             left:32px;
+             cursor: pointer;
+         }
+        
+         
+         
+         
+        
+        
+        
+        
+    
+    
+    
